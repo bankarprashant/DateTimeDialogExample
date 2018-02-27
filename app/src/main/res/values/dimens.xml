@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="_18sp">18sp</dimen>
+    <dimen name="_1dp">1dp</dimen>
+    <dimen name="_0.5dp">0.5dp</dimen>
+    <dimen name="large_space">12dp</dimen>
+    <dimen name="extra_large_space">16dp</dimen>
+    <dimen name="small_space">4dp</dimen>
+    <dimen name="medium_space">8dp</dimen>
+</resources>

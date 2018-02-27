@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DateTimeDialogExample</string>
+    <string name="date_time_dialog">Date Time Dialog</string>
+    <string name="date_dialog">Date Dialog</string>
+    <string name="time_dialog">Time Dialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="ok">Ok</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
